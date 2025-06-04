@@ -37,3 +37,7 @@
 ## Additional: Data Visualization
 - Visualize and explore cluster characteristics  
 
+---
+
+## **Future Work:**  
+To address the limitations of TF-IDF, future work can explore advanced text representation techniques such as **Bag of Words**, **Word2Vec**, **BERT embeddings**, or **topic modeling**. These methods can better capture semantic meaning and variations in reported side effects and effectiveness, potentially improving clustering consistency and overall interpretability.
