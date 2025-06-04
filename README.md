@@ -10,7 +10,7 @@ The **randomization process** in randomized controlled trials (RCTs) **restrict 
 drug reviews, clustering, LLMs
 
 # **LLM**
-<div align="center"><img src="https://github.com/wyu04/MDS-Project/tree/main/image/Picture2.png"></div>
+<div align="center"><img src="//raw.githubusercontent.com/wyu04/MDS-Project/tree/main/image/Picture2.png"></div>
 
 <br>
 
