@@ -15,9 +15,9 @@ drug reviews, clustering, LLMs
 <br>
 
 # **DBSCAN**
-<div align="center"><img src="https://github.com/wyu04/MDS-Project/tree/main/image/Picture1.png"></div>
+<div align="center"><img src="image/Picture1.png"></div>
 
 <br>
 
 # **Research Framework**
-<div align="center"><img src="https://github.com/wyu04/MDS-Project/tree/main/image/Research Framework (4)-Research Framework.drawio.png"></div>
+<div align="center"><img src="image/Research Framework (4)-Research Framework.drawio.png"></div>
