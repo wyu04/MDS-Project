@@ -10,14 +10,14 @@ The **randomization process** in randomized controlled trials (RCTs) **restrict 
 drug reviews, clustering, LLMs
 
 # **LLM**
-<div align="center"><img src="https://github.com/wyu04/MDS-Project/image/Picture2.png"></div>
+<div align="center"><img src="https://github.com/wyu04/MDS-Project/tree/main/image/Picture2.png"></div>
 
 <br>
 
 # **DBSCAN**
-<div align="center"><img src="https://github.com/wyu04/MDS-Project/image/Picture1.png"></div>
+<div align="center"><img src="https://github.com/wyu04/MDS-Project/tree/main/image/Picture1.png"></div>
 
 <br>
 
 # **Research Framework**
-<div align="center"><img src="https://github.com/wyu04/MDS-Project/image/Research Framework (1).png"></div>
+<div align="center"><img src="https://github.com/wyu04/MDS-Project/tree/main/image/Research Framework (4)-Research Framework.drawio.png"></div>
